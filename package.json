@@ -1,0 +1,15 @@
+{
+  "name": "json-inherit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "deepmerge": "2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Alexandru Vladutu",
+  "license": "MIT"
+}
